@@ -1,0 +1,8 @@
+fr.utbm.lo54project.controllers
+fr.utbm.lo54project.jpa
+fr.utbm.lo54project.model
+fr.utbm.lo54project.model.dto
+fr.utbm.lo54project.repositoryImpl
+fr.utbm.lo54project.repositoryInterface
+fr.utbm.lo54project.serviceImpl
+fr.utbm.lo54project.serviceInterface
